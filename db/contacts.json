@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "name": "Jan Kowalski",
+    "email": "jan.kowalski@example.com",
+    "phone": "123-456-789"
+  },
+  {
+    "id": "05olLMgyVQdWRwgKfg5J6",
+    "name": "Rafał Matula",
+    "email": "rafal.matula@example.com",
+    "phone": "125-543-645"
+  },
+  {
+    "id": "1711737808662",
+    "name": "Mango",
+    "email": "mango@gmail.com",
+    "phone": "322-22-22"
+  }
+]
